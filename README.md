@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @evyabd
 - 👀 I’m interested in C, JS and Java
 - 🌱 I’m currently learning CS at Open University Israel
-- 💞️ I’m looking to collaborate on DL projects.
 - 📫 How to reach me: evyabd@gmail.com.
 
 <!---
